@@ -1,0 +1,8 @@
+manifestVersion: "1.0"
+projects:
+  - name: Projects
+    path: Projects
+environmentGroups:
+  - name: default
+    environments:
+      - name: prod
